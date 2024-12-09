@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background:url(logo.png);
+  background-size: cover;
+/* Background color set to blank (transparent) */
+}
+.text {
+  
+  font-size: 5rem;
+  font-weight: bold; /* Text set to bold */
+  color: #3e3c3c; /* Text color set to white */
+}
